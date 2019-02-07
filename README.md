@@ -61,6 +61,8 @@ Don't worry about being pixel perfect, and don't worry if your code doesn't matc
   * Assign a position, left, and top.
 * Locate the element with the class of `sign-in`.
   * Assign a position, right, and top.
+* Locate the element with the class of `bottom-container`
+  * Assign a position and bottom property so it slightly overlaps the container below it.
 
 ## Step 2
 
